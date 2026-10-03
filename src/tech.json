@@ -1,0 +1,10 @@
+[
+  { "id": "myclaude", "kicker": "Produto", "title": "myClaude", "desc": "Uma loja de habilidades prontas para o Claude, a IA da Anthropic. Você escolhe o que precisa e instala com um único comando.", "image": "/content/tech/myclaude.webp", "pixel": false },
+  { "id": "aideas", "kicker": "Estúdio · co-fundador", "title": "AIdeas Lab", "desc": "Estúdio de inteligência artificial aplicada a eventos. Cria produtos, telas conceito e ativações para marcas.", "image": "/content/tech/aideas.webp", "pixel": false },
+  { "id": "pixel", "kicker": "AIdeas Lab", "title": "Pixel Mapper", "desc": "Planeja painéis de LED: calcula placas, peso e energia e desenha o mapa de pixels. É o que você vê no telão agora.", "image": null, "pixel": true },
+  { "id": "dialogo", "kicker": "Comunidade", "title": "d.IA.logo", "desc": "Uma comunidade para quem quer aprender e criar com inteligência artificial. A gente constrói junto, ao vivo.", "image": "/content/tech/dialogo.webp", "pixel": false },
+  { "id": "sintetica", "kicker": "Em desenvolvimento", "title": "Sintética", "desc": "Uma fábrica de creators feitos com IA, com rosto, voz e personalidade fixos. A marca manda o briefing e eles gravam vídeos do produto para dezenas de contas nas redes.", "image": "/content/tech/sintetica.webp", "pixel": false },
+  { "id": "f2engine", "kicker": "F2 Solutions", "title": "F2 Engine", "desc": "O sistema que leva uma ativação de evento do briefing até o totem pronto. Parte de 13 modelos e só entrega depois de passar por uma checagem de qualidade.", "image": "/content/tech/f2engine.webp", "pixel": false },
+  { "id": "unrealforge", "kicker": "Games", "title": "Unreal Forge", "desc": "Uma forja de jogos na Unreal Engine 5. Transforma a ideia de um jogo em código C++ pronto e monta o mundo direto no editor.", "image": "/content/tech/unrealforge.webp", "pixel": false },
+  { "id": "agentes", "kicker": "IA", "title": "Agentes", "desc": "Uma equipe de agentes de IA, cada um especialista em uma tarefa, trabalhando juntos sob um coordenador. Planejam, pesquisam, revisam e entregam.", "image": "/content/tech/agentes.webp", "pixel": false }
+]

@@ -1,0 +1,203 @@
+{
+  "shots": [
+    {
+      "id": "c01",
+      "name": "01 · Fachada de manhã",
+      "tgt": [
+        -4,
+        5,
+        24
+      ],
+      "dist": 38,
+      "el": 9,
+      "az": 18,
+      "tod": 0.12
+    },
+    {
+      "id": "c02",
+      "name": "02 · Panorâmica frontal",
+      "tgt": [
+        0,
+        6,
+        24
+      ],
+      "dist": 78,
+      "el": 7,
+      "az": 0,
+      "tod": 0.25
+    },
+    {
+      "id": "c03",
+      "name": "03 · Rua, ponto de vista",
+      "tgt": [
+        6,
+        3.2,
+        23.6
+      ],
+      "dist": 26.28,
+      "el": 0.9,
+      "az": -81.7,
+      "tod": 0.5
+    },
+    {
+      "id": "c04",
+      "name": "04 · Esquina",
+      "tgt": [
+        20.67,
+        8.03,
+        28.41
+      ],
+      "dist": 12.29,
+      "el": 0.9,
+      "az": 25.9,
+      "tod": 0.55
+    },
+    {
+      "id": "c05",
+      "name": "05 · Praça se montando (golden hour)",
+      "tgt": [
+        0,
+        1,
+        0
+      ],
+      "dist": 40,
+      "el": 28,
+      "az": 25,
+      "tod": 0.6
+    },
+    {
+      "id": "c06",
+      "name": "06 · Fachada anoitecendo",
+      "tgt": [
+        6,
+        6,
+        24
+      ],
+      "dist": 36,
+      "el": 11,
+      "az": 12,
+      "tod": 0.74
+    },
+    {
+      "id": "c07",
+      "name": "07 · Zoom out da fachada",
+      "tgt": [
+        -0.72,
+        8.24,
+        23.9
+      ],
+      "dist": 43.63,
+      "el": 5.2,
+      "az": 2.4,
+      "tod": 0.82
+    },
+    {
+      "id": "c08",
+      "name": "08 · Giro de 45°",
+      "tgt": [
+        -7.09,
+        8.4,
+        2.15
+      ],
+      "dist": 76.71,
+      "el": 0.9,
+      "az": -46.3,
+      "tod": 0.88
+    },
+    {
+      "id": "c09",
+      "name": "09 · Giro até a praça",
+      "tgt": [
+        -4.55,
+        10.45,
+        -7.28
+      ],
+      "dist": 72,
+      "el": 0.9,
+      "az": -73.2,
+      "tod": 0.93
+    },
+    {
+      "id": "c10",
+      "name": "10 · Aérea",
+      "tgt": [
+        -0.87,
+        4.53,
+        -0.83
+      ],
+      "dist": 137.51,
+      "el": 38,
+      "az": 40,
+      "tod": 1
+    },
+    {
+      "id": "c11",
+      "name": "11 · Fachada à noite, mais aberta",
+      "tgt": [
+        11.47,
+        10.07,
+        7.74
+      ],
+      "dist": 44.88,
+      "el": 0.9,
+      "az": 27.4,
+      "tod": 1
+    },
+    {
+      "id": "c12",
+      "name": "12 · Foco na rua",
+      "tgt": [
+        19.11,
+        1.53,
+        23.28
+      ],
+      "dist": 16.24,
+      "el": 1.5,
+      "az": 73.3,
+      "tod": 1
+    },
+    {
+      "id": "c13",
+      "name": "13 · Isométrica, preparando o evento",
+      "tgt": [
+        0,
+        3,
+        -3
+      ],
+      "dist": 72,
+      "el": 27.5,
+      "az": 0.5,
+      "tod": 1
+    },
+    {
+      "id": "c14",
+      "name": "14 · Isométrica, entrando no evento",
+      "tgt": [
+        0,
+        3,
+        -3
+      ],
+      "dist": 64,
+      "el": 46,
+      "az": 40,
+      "tod": 1
+    }
+  ],
+  "assign": {},
+  "order": [
+    "c01",
+    "c02",
+    "c03",
+    "c04",
+    "c05",
+    "c06",
+    "c07",
+    "c08",
+    "c09",
+    "c10",
+    "c11",
+    "c12",
+    "c13",
+    "c14"
+  ]
+}

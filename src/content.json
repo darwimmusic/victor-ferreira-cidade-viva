@@ -1,0 +1,979 @@
+{
+  "obras": [
+    {
+      "id": "coca-cola-carrefour",
+      "title": "Coca-Cola · Encontro de Líderes Carrefour 2026",
+      "client": "Coca-Cola (via RG Produções)",
+      "company": "RG Produções",
+      "year": 2026,
+      "role": "Projeto cenotécnico: planta, cobertura, elevações, corte e memoriais",
+      "summary": "Um estande de 3 × 3 m com pórtico iluminado e estoque ao fundo, traduzido das perspectivas do cliente para desenho cotado em escala real.",
+      "plan": "/content/obras/coca-cola-carrefour/plan.webp",
+      "front": "/content/obras/coca-cola-carrefour/front.webp",
+      "images": [
+        "/content/obras/coca-cola-carrefour/1.webp",
+        "/content/obras/coca-cola-carrefour/2.webp",
+        "/content/obras/coca-cola-carrefour/3.webp",
+        "/content/obras/coca-cola-carrefour/4.webp"
+      ],
+      "numbers": [
+        {
+          "value": "9",
+          "unit": "m²",
+          "label": "implantação do estande (3 × 3 m)"
+        },
+        {
+          "value": "2,80",
+          "unit": "m",
+          "label": "altura externa"
+        },
+        {
+          "value": "3",
+          "unit": "m²",
+          "label": "estoque posterior"
+        },
+        {
+          "value": "6",
+          "unit": "m²",
+          "label": "área frontal de ativação"
+        }
+      ]
+    },
+    {
+      "id": "starbucks-paulista",
+      "title": "Copo cenográfico Pumpkin Spice",
+      "client": "Starbucks",
+      "company": "RG Produções",
+      "year": 2026,
+      "role": "Projeto cenotécnico, cálculo estrutural e RRT de execução",
+      "summary": "Um copo oco de 3,35 m no passeio mais movimentado do país, estável só com contrapeso até 155 km/h.",
+      "plan": "/content/obras/starbucks-paulista/plan.webp",
+      "front": "/content/obras/starbucks-paulista/front.webp",
+      "images": [
+        "/content/obras/starbucks-paulista/1.webp",
+        "/content/obras/starbucks-paulista/2.webp"
+      ],
+      "numbers": [
+        {
+          "value": "155",
+          "unit": "km/h",
+          "label": "rajada suportada com lastro"
+        },
+        {
+          "value": "750",
+          "unit": "kg",
+          "label": "lastro do copo"
+        },
+        {
+          "value": "3,35",
+          "unit": "m",
+          "label": "altura total"
+        },
+        {
+          "value": "1,39",
+          "unit": "",
+          "label": "fator de segurança ao tombamento"
+        }
+      ]
+    },
+    {
+      "id": "lula-2026",
+      "title": "Lula 2026: implantação no Estádio Primeiro de Maio",
+      "client": "Evento político ao ar livre · São Bernardo do Campo",
+      "company": "Autoral",
+      "year": 2026,
+      "role": "Projeto técnico de implantação: lotação, saídas de emergência, sanitários, hidratação e acessibilidade",
+      "summary": "Um estádio inteiro dimensionado para 21 mil pessoas em pé, com saídas, sanitários e rota acessível calculados a partir da lotação.",
+      "plan": "/content/obras/lula-2026/plan.webp",
+      "front": "/content/obras/lula-2026/front.webp",
+      "images": [
+        "/content/obras/lula-2026/1.webp"
+      ],
+      "numbers": [
+        {
+          "value": "21.000",
+          "unit": "pessoas",
+          "label": "lotação prevista"
+        },
+        {
+          "value": "10.000",
+          "unit": "m²",
+          "label": "área útil de público"
+        },
+        {
+          "value": "66",
+          "unit": "m",
+          "label": "largura mínima de saídas (120 UP)"
+        },
+        {
+          "value": "180",
+          "unit": "módulos",
+          "label": "sanitários"
+        }
+      ]
+    },
+    {
+      "id": "loreal-ldb-2026",
+      "title": "Convenção L'Oréal LDB 2026",
+      "client": "L'Oréal (via Talk Eventos)",
+      "company": "Autoral",
+      "year": 2026,
+      "role": "Projeto técnico de implantação e RRT de projeto e de execução",
+      "summary": "Plenária para 650 pessoas, com carga aérea resolvida ponto a ponto e dois painéis de LED de 7 × 4 m.",
+      "plan": "/content/obras/loreal-ldb-2026/plan.webp",
+      "front": "/content/obras/loreal-ldb-2026/front.webp",
+      "images": [],
+      "numbers": [
+        {
+          "value": "650",
+          "unit": "pessoas",
+          "label": "público da plenária"
+        },
+        {
+          "value": "1.113",
+          "unit": "m²",
+          "label": "Salão Imperial"
+        },
+        {
+          "value": "2",
+          "unit": "× 7 × 4 m",
+          "label": "painéis de LED P2"
+        },
+        {
+          "value": "115",
+          "unit": "kVA",
+          "label": "potência instalada"
+        }
+      ]
+    },
+    {
+      "id": "disney-dvp2",
+      "title": "Disney DVP2: Rio Fashion Week",
+      "client": "Disney",
+      "company": "RG Produções",
+      "year": 2026,
+      "role": "Autor do projeto técnico e responsável técnico, exceto ignifugação",
+      "summary": "Um sapato cenográfico de 130 kg e uma parede com cerca de 45 lâmpadas expostas em área de público.",
+      "plan": "/content/obras/disney-dvp2/plan.webp",
+      "front": "/content/obras/disney-dvp2/front.webp",
+      "images": [
+        "/content/obras/disney-dvp2/1.webp"
+      ],
+      "numbers": [
+        {
+          "value": "130",
+          "unit": "kg",
+          "label": "sapato cenográfico"
+        },
+        {
+          "value": "~45",
+          "unit": "lâmpadas",
+          "label": "LED expostas"
+        },
+        {
+          "value": "1.230",
+          "unit": "W",
+          "label": "carga elétrica total"
+        },
+        {
+          "value": "30",
+          "unit": "mA",
+          "label": "proteção DR"
+        }
+      ]
+    },
+    {
+      "id": "musik-rir22-itau",
+      "title": "Itaú no Rock in Rio 2022: estande e carrossel",
+      "client": "Itaú",
+      "company": "Musik Pro",
+      "year": 2022,
+      "role": "Projetista de iluminação: planta de luz do estande e do carrossel",
+      "summary": "235 aparelhos de luz sobre um estande em L e um carrossel com fila para 260 pessoas.",
+      "plan": "/content/obras/musik-rir22-itau/plan.webp",
+      "front": "/content/obras/musik-rir22-itau/front.webp",
+      "images": [
+        "/content/obras/musik-rir22-itau/1.webp",
+        "/content/obras/musik-rir22-itau/2.webp",
+        "/content/obras/musik-rir22-itau/3.webp"
+      ],
+      "numbers": [
+        {
+          "value": "235",
+          "unit": "aparelhos",
+          "label": "no estande"
+        },
+        {
+          "value": "13",
+          "unit": "modelos",
+          "label": "de refletor"
+        },
+        {
+          "value": "260",
+          "unit": "pessoas",
+          "label": "na fila do carrossel"
+        },
+        {
+          "value": "4",
+          "unit": "zonas",
+          "label": "de cobertura de luz"
+        }
+      ]
+    },
+    {
+      "id": "musik-rir22-tiktok",
+      "title": "TikTok no Rock in Rio 2022: Square e Lounge",
+      "client": "TikTok",
+      "company": "Musik Pro",
+      "year": 2022,
+      "role": "Projetista de luz e som dos dois espaços",
+      "summary": "Luz e som de dois espaços de vários pavimentos, com peso e consumo somados andar por andar.",
+      "plan": "/content/obras/musik-rir22-tiktok/plan.webp",
+      "front": "/content/obras/musik-rir22-tiktok/front.webp",
+      "images": [
+        "/content/obras/musik-rir22-tiktok/1.webp",
+        "/content/obras/musik-rir22-tiktok/2.webp",
+        "/content/obras/musik-rir22-tiktok/3.webp"
+      ],
+      "numbers": [
+        {
+          "value": "6",
+          "unit": "pranchas",
+          "label": "em 2 espaços"
+        },
+        {
+          "value": "580",
+          "unit": "kg",
+          "label": "carga do térreo do Square"
+        },
+        {
+          "value": "13,5",
+          "unit": "kW",
+          "label": "consumo do térreo do Square"
+        }
+      ]
+    },
+    {
+      "id": "musik-rir22-doritos",
+      "title": "Doritos no Rock in Rio 2022: estande em três níveis",
+      "client": "Doritos (PepsiCo)",
+      "company": "Musik Pro",
+      "year": 2022,
+      "role": "Light designer do estande e da área VIP",
+      "summary": "A luz reforça o triângulo da marca num estande de 8 × 18,5 m em três níveis.",
+      "plan": "/content/obras/musik-rir22-doritos/plan.webp",
+      "front": "/content/obras/musik-rir22-doritos/front.webp",
+      "images": [
+        "/content/obras/musik-rir22-doritos/1.webp",
+        "/content/obras/musik-rir22-doritos/2.webp",
+        "/content/obras/musik-rir22-doritos/3.webp"
+      ],
+      "numbers": [
+        {
+          "value": "3",
+          "unit": "níveis",
+          "label": "+ área VIP"
+        },
+        {
+          "value": "211",
+          "unit": "kg",
+          "label": "carga do térreo"
+        },
+        {
+          "value": "8,6",
+          "unit": "kW",
+          "label": "consumo do térreo"
+        },
+        {
+          "value": "5",
+          "unit": "revisões",
+          "label": "no térreo e no mezanino"
+        }
+      ]
+    },
+    {
+      "id": "musik-warzone2",
+      "title": "Call of Duty: Warzone 2.0, Evento da Comunidade",
+      "client": "Activision / Call of Duty",
+      "company": "Musik Pro",
+      "year": 2022,
+      "role": "Projetista da implantação técnica: luz, som, LED e fluxo",
+      "summary": "E-sports, show e transmissão no mesmo galpão, com a carga resolvida ponto a ponto no grid.",
+      "plan": "/content/obras/musik-warzone2/plan.webp",
+      "front": "/content/obras/musik-warzone2/front.webp",
+      "images": [
+        "/content/obras/musik-warzone2/1.webp",
+        "/content/obras/musik-warzone2/2.webp",
+        "/content/obras/musik-warzone2/3.webp"
+      ],
+      "numbers": [
+        {
+          "value": "230",
+          "unit": "aparelhos",
+          "label": "de luz"
+        },
+        {
+          "value": "100",
+          "unit": "lugares",
+          "label": "na plateia"
+        },
+        {
+          "value": "9 × 3,5",
+          "unit": "m",
+          "label": "LED do palco"
+        },
+        {
+          "value": "1:200",
+          "unit": "",
+          "label": "escala da implantação"
+        }
+      ]
+    },
+    {
+      "id": "sony-verity",
+      "title": "Sony Pictures Verity: Book Night",
+      "client": "Sony Pictures",
+      "company": "RG Produções",
+      "year": 2026,
+      "role": "Responsável técnico pela cenografia, estruturas temporárias e iluminação cênica",
+      "summary": "O maior conjunto da série no Cinemark Iguatemi, dimensionado em menos de 48 horas a partir de artes sem cota.",
+      "plan": null,
+      "front": "/content/obras/sony-verity/front.webp",
+      "images": [
+        "/content/obras/sony-verity/1.webp",
+        "/content/obras/sony-verity/2.webp",
+        "/content/obras/sony-verity/3.webp"
+      ],
+      "numbers": [
+        {
+          "value": "12",
+          "unit": "m",
+          "label": "backdrop do foyer"
+        },
+        {
+          "value": "1.930",
+          "unit": "kg",
+          "label": "lastro total"
+        },
+        {
+          "value": "400",
+          "unit": "convidados",
+          "label": "capacidade"
+        },
+        {
+          "value": "2.200",
+          "unit": "W",
+          "label": "iluminação cênica"
+        }
+      ]
+    },
+    {
+      "id": "galinha-pintadinha",
+      "title": "Galinha Pintadinha: O Filme, pré-estreia infantil",
+      "client": "Imagem Filmes / Bromélia",
+      "company": "RG Produções",
+      "year": 2026,
+      "role": "Responsável técnico pela cenografia, estruturas temporárias e iluminação do portal",
+      "summary": "Cálculo refeito para o público que puxa, sobe e se pendura: 900 crianças e acompanhantes numa sessão matinal.",
+      "plan": null,
+      "front": "/content/obras/galinha-pintadinha/front.webp",
+      "images": [
+        "/content/obras/galinha-pintadinha/1.webp",
+        "/content/obras/galinha-pintadinha/2.webp"
+      ],
+      "numbers": [
+        {
+          "value": "900",
+          "unit": "pessoas",
+          "label": "público infantil com acompanhantes"
+        },
+        {
+          "value": "1.350",
+          "unit": "kg",
+          "label": "lastro total"
+        },
+        {
+          "value": "330",
+          "unit": "kg",
+          "label": "de lastro economizados"
+        },
+        {
+          "value": "31",
+          "unit": "%",
+          "label": "do limite de carga no piso"
+        }
+      ]
+    },
+    {
+      "id": "obra-on9",
+      "title": "ON9 Produções: reforma de sede e estúdio",
+      "client": "On9 Produções",
+      "company": "Autoral",
+      "year": 2024,
+      "role": "Arquiteto autor e responsável técnico pela execução, com RRT próprio",
+      "summary": "Um imóvel antigo convertido em sede de produtora com estúdio, projetado e executado sob RRT própria.",
+      "plan": "/content/obras/obra-on9/plan.webp",
+      "front": null,
+      "images": [
+        "/content/obras/obra-on9/1.webp",
+        "/content/obras/obra-on9/2.webp",
+        "/content/obras/obra-on9/3.webp",
+        "/content/obras/obra-on9/4.webp"
+      ],
+      "numbers": [
+        {
+          "value": "200",
+          "unit": "m²",
+          "label": "de área"
+        },
+        {
+          "value": "23",
+          "unit": "pranchas",
+          "label": "em 8 disciplinas"
+        },
+        {
+          "value": "6",
+          "unit": "atividades",
+          "label": "técnicas na RRT"
+        },
+        {
+          "value": "3",
+          "unit": "pavimentos",
+          "label": ""
+        }
+      ]
+    },
+    {
+      "id": "adapta",
+      "title": "Adapta: interiores de escritório, estúdio e mezanino",
+      "client": "Adapta",
+      "company": "Autoral",
+      "year": 2024,
+      "role": "Autor do projeto, da visualização 3D e da direção de arte do mural",
+      "summary": "A identidade da marca traduzida em espaço, com um mural de camaleões gerado com IA pelo próprio arquiteto.",
+      "plan": null,
+      "front": "/content/obras/adapta/front.webp",
+      "images": [
+        "/content/obras/adapta/1.webp",
+        "/content/obras/adapta/2.webp",
+        "/content/obras/adapta/3.webp",
+        "/content/obras/adapta/4.webp"
+      ],
+      "numbers": [
+        {
+          "value": "22",
+          "unit": "renders",
+          "label": "finais em duas rodadas"
+        },
+        {
+          "value": "3",
+          "unit": "ambientes",
+          "label": ""
+        }
+      ]
+    },
+    {
+      "id": "nba-house-2025",
+      "title": "NBA House 2025: pixel map e implantação técnica",
+      "client": "NBA",
+      "company": "TM1 Brand Experience",
+      "year": 2025,
+      "role": "Arquiteto e projetista técnico: implantação, tenda em 3D, jumbotron e pixel map",
+      "summary": "Uma casa temporária da NBA num parque público, com seis superfícies de LED entregues em pixel exato à produtora de conteúdo.",
+      "plan": "/content/obras/nba-house-2025/plan.webp",
+      "front": "/content/obras/nba-house-2025/front.webp",
+      "images": [
+        "/content/obras/nba-house-2025/1.webp",
+        "/content/obras/nba-house-2025/2.webp",
+        "/content/obras/nba-house-2025/3.webp"
+      ],
+      "numbers": [
+        {
+          "value": "~147",
+          "unit": "m²",
+          "label": "área total de LED"
+        },
+        {
+          "value": "6",
+          "unit": "superfícies",
+          "label": "de LED mapeadas"
+        },
+        {
+          "value": "3.024 × 1.680",
+          "unit": "px",
+          "label": "fundo do palco"
+        },
+        {
+          "value": "60",
+          "unit": "fps",
+          "label": "codec DXV3"
+        }
+      ]
+    }
+  ],
+  "apps": [
+    {
+      "id": "capacita-gemini",
+      "title": "Iara Exploradora: totem 3D e photobooth com Gemini",
+      "client": "Google Cloud (Capacita+)",
+      "company": "F2 Solutions",
+      "year": 2026,
+      "kind": "IA",
+      "color": "#3A6B2F",
+      "summary": "A mascote do Capacita+ em 3D numa tela de 75\", com retrato ilustrado pelo Gemini entregue por QR.",
+      "screens": [
+        "/content/apps/capacita-gemini/real-01.webp",
+        "/content/apps/capacita-gemini/01.webp",
+        "/content/apps/capacita-gemini/02.webp"
+      ],
+      "what": "Totem vertical de 75\" em que o visitante gira a Iara, a capivara mascote do Capacita+, em 3D e toca em pontos que abrem conteúdos do programa. Depois escolhe pose e frase, tira uma foto e o Gemini a transforma em retrato ilustrado ao lado da Iara, baixado pelo QR.",
+      "event": null,
+      "partner": "F2 Solutions",
+      "agency": null,
+      "landscape": false
+    },
+    {
+      "id": "volvo-emotion-drive",
+      "title": "Volvo Emotion Drive",
+      "client": "Volvo Cars Brasil",
+      "company": "F2 Solutions",
+      "year": 2026,
+      "kind": "Biometria",
+      "color": "#16181C",
+      "summary": "Batimento cardíaco, rosto e emoção captados na volta de test drive e entregues em vídeo no pit stop.",
+      "screens": [
+        "/content/apps/volvo-emotion-drive/real-01.webp",
+        "/content/apps/volvo-emotion-drive/01.webp",
+        "/content/apps/volvo-emotion-drive/02.webp"
+      ],
+      "what": "Durante o test drive, um relógio WearOS lê o batimento do convidado e uma câmera no carro filma o rosto e a emoção na volta. No pit stop, em cerca de 3 minutos, um vídeo personalizado vai para o mural de LED e para o celular do convidado por QR.",
+      "event": "Volvo Emotion Drive · Salão Volvo",
+      "partner": "F2 Solutions",
+      "agency": null,
+      "landscape": true
+    },
+    {
+      "id": "fanta-compre-e-ganhe",
+      "title": "Fanta Halloween: Compre e Ganhe",
+      "client": "Fanta / Cinemark",
+      "company": "RG Produções",
+      "year": 2026,
+      "kind": "Cadastro",
+      "color": "#3B1470",
+      "summary": "Stand de brindes em tablet: cadastro, conferência do cupom pela promotora e painel de estoque.",
+      "screens": [
+        "/content/apps/fanta-compre-e-ganhe/03.webp",
+        "/content/apps/fanta-compre-e-ganhe/04.webp",
+        "/content/apps/fanta-compre-e-ganhe/05.webp",
+        "/content/apps/fanta-compre-e-ganhe/06.webp",
+        "/content/apps/fanta-compre-e-ganhe/01.webp",
+        "/content/apps/fanta-compre-e-ganhe/02.webp"
+      ],
+      "what": "Tablet de balcão do \"Compre e Ganhe\": o consumidor se cadastra e entrega o tablet à promotora, que confere o cupom fiscal com PIN e libera o brinde Fanta Halloween da faixa de gasto. Um painel acompanha cadastros, brindes entregues e estoque.",
+      "event": "Halloween na bomboniere · Cinemark Eldorado",
+      "partner": "RG Produções",
+      "agency": null,
+      "landscape": false
+    },
+    {
+      "id": "roleta-cinemark",
+      "title": "Roleta Cinemark Empresas",
+      "client": "Cinemark Empresas",
+      "company": "RG Produções",
+      "year": 2026,
+      "kind": "Roleta",
+      "color": "#B3121B",
+      "summary": "App Android de captação de leads que roda 100% offline num tablet de feira e nunca promete prêmio sem estoque.",
+      "screens": [
+        "/content/apps/roleta-cinemark/04.webp",
+        "/content/apps/roleta-cinemark/03.webp",
+        "/content/apps/roleta-cinemark/06.webp",
+        "/content/apps/roleta-cinemark/05.webp",
+        "/content/apps/roleta-cinemark/01.webp",
+        "/content/apps/roleta-cinemark/02.webp"
+      ],
+      "what": "Roleta de prêmios num tablet Android que roda 100% offline: o visitante se cadastra com aceite LGPD e toca para girar. O resultado é sorteado antes da animação a partir do estoque de ingressos, então a roleta nunca promete prêmio que acabou.",
+      "event": "CONARH 2026 · estande Cinemark Empresas",
+      "partner": "RG Produções",
+      "agency": null,
+      "landscape": false
+    },
+    {
+      "id": "slot-cinepolis",
+      "title": "Caça-níquel Cinépolis",
+      "client": "Cinépolis",
+      "company": "RG Produções",
+      "year": 2026,
+      "kind": "Jogo",
+      "color": "#0B2A6B",
+      "summary": "Caça-níquel de prêmios em tablet Android, com três rolos de ícones de cinema e prêmio só quando os três iguais caem na linha central.",
+      "screens": [
+        "/content/apps/slot-cinepolis/02.webp",
+        "/content/apps/slot-cinepolis/01.webp",
+        "/content/apps/slot-cinepolis/04.webp",
+        "/content/apps/slot-cinepolis/05.webp",
+        "/content/apps/slot-cinepolis/06.webp",
+        "/content/apps/slot-cinepolis/03.webp"
+      ],
+      "what": "Caça-níquel de três rolos na moldura marquee da Cinépolis, num tablet deitado e offline: o convidado toca GIRAR e os rolos param um a um. O prêmio é sorteado pelo estoque antes da animação, e só três símbolos iguais na linha central ganham.",
+      "event": null,
+      "partner": "RG Produções",
+      "agency": null,
+      "landscape": true
+    },
+    {
+      "id": "jogo-velha-cinepolis",
+      "title": "Jogo da Velha Cinépolis",
+      "client": "Cinépolis",
+      "company": "RG Produções",
+      "year": 2026,
+      "kind": "Jogo",
+      "color": "#F4EEDB",
+      "summary": "Jogo da velha contra o tablet, com cadastro e aceite LGPD antes da partida, para captação de leads no estande.",
+      "screens": [
+        "/content/apps/jogo-velha-cinepolis/01.webp",
+        "/content/apps/jogo-velha-cinepolis/02.webp",
+        "/content/apps/jogo-velha-cinepolis/03.webp",
+        "/content/apps/jogo-velha-cinepolis/04.webp",
+        "/content/apps/jogo-velha-cinepolis/05.webp",
+        "/content/apps/jogo-velha-cinepolis/06.webp"
+      ],
+      "what": "Jogo da velha contra o tablet, com cadastro e aceite LGPD antes da partida. A CPU joga minimax com uma dose calculada de erro, e quem vence retira o prêmio no balcão Cinépolis.",
+      "event": null,
+      "partner": "RG Produções",
+      "agency": null,
+      "landscape": false
+    },
+    {
+      "id": "avon-voce-na-capa",
+      "title": "AVON Você na Capa",
+      "client": "AVON",
+      "company": "F2 Solutions",
+      "year": 2026,
+      "kind": "Photobooth",
+      "color": "#F3DDE2",
+      "summary": "A participante vira capa de revista AVON, com logo, chamadas e código de barras reais.",
+      "screens": [
+        "/content/apps/avon-voce-na-capa/02.webp",
+        "/content/apps/avon-voce-na-capa/03.webp"
+      ],
+      "what": "A participante escolhe uma das capas da campanha, posa para a câmera com a moldura da revista na tela e sai como capa AVON, com logo, chamadas e código de barras reais. A capa vai para o celular e entra no mural do evento.",
+      "event": null,
+      "partner": "F2 Solutions",
+      "agency": null,
+      "landscape": false
+    },
+    {
+      "id": "elevador-itau-rir-2026",
+      "title": "Elevador Itaú Uniclass",
+      "client": "Itaú Uniclass",
+      "company": "F2 Solutions",
+      "year": 2026,
+      "kind": "Photobooth",
+      "color": "#0E1A45",
+      "summary": "Um toque dispara a subida inteira: pose, contagem, foto com moldura e QR na saída, em menos de 30 s.",
+      "screens": [
+        "/content/apps/elevador-itau-rir-2026/real-01.webp",
+        "/content/apps/elevador-itau-rir-2026/01.webp",
+        "/content/apps/elevador-itau-rir-2026/02.webp"
+      ],
+      "what": "Uma TV vertical de 75\" dentro de um elevador cenográfico: um toque do operador roda a subida inteira, com pose, contagem, foto com moldura Itaú Uniclass e congelamento, em 24,5 s. O convidado pega a foto pelo QR no totem da saída.",
+      "event": "Rock in Rio 2026 · Stand do Itaú",
+      "partner": "F2 Solutions",
+      "agency": "todos.",
+      "landscape": false
+    },
+    {
+      "id": "ifood-rir-2026",
+      "title": "iFood no Rock in Rio 2026",
+      "client": "iFood",
+      "company": "F2 Solutions",
+      "year": 2026,
+      "kind": "Cadastro",
+      "color": "#EA1D2C",
+      "summary": "Três sistemas conversando: fila virtual, cadastro por QR e um duelo de mercado em dupla.",
+      "screens": [
+        "/content/apps/ifood-rir-2026/01.webp",
+        "/content/apps/ifood-rir-2026/02.webp",
+        "/content/apps/ifood-rir-2026/03.webp",
+        "/content/apps/ifood-rir-2026/04.webp",
+        "/content/apps/ifood-rir-2026/05.webp",
+        "/content/apps/ifood-rir-2026/06.webp"
+      ],
+      "what": "No Mercado Virtual 2.0, uma dupla recebe a mesma lista de produto e adesivo, corre às gôndolas e o caixa confere no tablet quem trouxe tudo certo primeiro. Em volta, uma fila virtual com cadastro por QR no celular organiza a vez de cada dupla.",
+      "event": "Rock in Rio 2026 · estande iFood",
+      "partner": "F2 Solutions",
+      "agency": null,
+      "landscape": true
+    },
+    {
+      "id": "panini-sticker-booth",
+      "title": "Panini Sticker Booth: a figurinha é você",
+      "client": "Panini Brasil",
+      "company": "F2 Solutions",
+      "year": 2026,
+      "kind": "Photobooth",
+      "color": "#0B1733",
+      "summary": "O convidado vira figurinha Panini: cadastro, foto, pacote rasgado na tela e a carta revelada com QR para baixar.",
+      "screens": [
+        "/content/apps/panini-sticker-booth/real-01.webp",
+        "/content/apps/panini-sticker-booth/real-02.webp",
+        "/content/apps/panini-sticker-booth/01.webp",
+        "/content/apps/panini-sticker-booth/02.webp"
+      ],
+      "what": "A pessoa se cadastra, tira a foto e escolhe um de três pacotes (Libertadores, DC ou Dragon Ball). Rasga o topo arrastando o dedo e de dentro sai a figurinha com a própria foto, com raridade sorteada e QR para baixar.",
+      "event": null,
+      "partner": "F2 Solutions",
+      "agency": null,
+      "landscape": false
+    },
+    {
+      "id": "sem-pepino",
+      "title": "SEM PEPINO!",
+      "client": "F2 Solutions (P&D interno)",
+      "company": "F2 Solutions",
+      "year": 2026,
+      "kind": "Jogo",
+      "color": "#7A1FA2",
+      "summary": "Bata na toupeira com a equipe da F2 saindo dos flight cases com os pepinos da montagem: 14 personagens reais e 36 frases.",
+      "screens": [
+        "/content/apps/sem-pepino/01.webp",
+        "/content/apps/sem-pepino/03.webp",
+        "/content/apps/sem-pepino/04.webp",
+        "/content/apps/sem-pepino/05.webp",
+        "/content/apps/sem-pepino/02.webp"
+      ],
+      "what": "Bata na toupeira: colegas da equipe F2 surgem de trás dos flight cases com os pepinos da montagem e o jogador martela antes que escapem. Joga-se tocando na tela, no celular ou no totem.",
+      "event": null,
+      "partner": "F2 Solutions",
+      "agency": null,
+      "landscape": false
+    },
+    {
+      "id": "strike",
+      "title": "STRIKE NA MONTAGEM!",
+      "client": "F2 Solutions (P&D interno)",
+      "company": "F2 Solutions",
+      "year": 2026,
+      "kind": "Jogo",
+      "color": "#3A1A7A",
+      "summary": "Boliche com física 3D sobre uma pista pintada, câmera calibrada pela arte e 15 colegas no lugar dos pinos.",
+      "screens": [
+        "/content/apps/strike/03.webp",
+        "/content/apps/strike/04.webp",
+        "/content/apps/strike/02.webp",
+        "/content/apps/strike/05.webp"
+      ],
+      "what": "Boliche com física 3D numa pista pintada, com 15 colegas da equipe no lugar dos pinos. O arremesso é um gesto de arrastar para cima, e a pontuação corre por dez jogadas.",
+      "event": null,
+      "partner": "F2 Solutions",
+      "agency": null,
+      "landscape": false
+    },
+    {
+      "id": "treta",
+      "title": "TRETA NA PRODUÇÃO!",
+      "client": "F2 Solutions (P&D interno)",
+      "company": "F2 Solutions",
+      "year": 2026,
+      "kind": "Jogo",
+      "color": "#2A1260",
+      "summary": "Luta 2D com 16 lutadores da equipe, modo torre e versus, com impacto, som e faísca no mesmo frame.",
+      "screens": [
+        "/content/apps/treta/01.webp",
+        "/content/apps/treta/02.webp",
+        "/content/apps/treta/03.webp",
+        "/content/apps/treta/04.webp",
+        "/content/apps/treta/05.webp",
+        "/content/apps/treta/06.webp"
+      ],
+      "what": "Luta 2D no estilo arcade com 16 lutadores da equipe F2, em modo torre contra o computador ou versus entre dois jogadores. Controles na tela ou no teclado, com golpe, som e faísca no mesmo frame.",
+      "event": null,
+      "partner": "F2 Solutions",
+      "agency": null,
+      "landscape": true
+    },
+    {
+      "id": "corre-cliente",
+      "title": "CORRE QUE O CLIENTE CHEGOU!",
+      "client": "F2 Solutions (P&D interno)",
+      "company": "F2 Solutions",
+      "year": 2026,
+      "kind": "Jogo",
+      "color": "#2B1250",
+      "summary": "Runner de três faixas em projeção 2D calibrada na pista pintada, leve em qualquer celular e com piloto automático para o totem.",
+      "screens": [
+        "/content/apps/corre-cliente/02.webp",
+        "/content/apps/corre-cliente/03.webp",
+        "/content/apps/corre-cliente/04.webp",
+        "/content/apps/corre-cliente/05.webp",
+        "/content/apps/corre-cliente/01.webp"
+      ],
+      "what": "Runner de três faixas num corredor de flight cases: o jogador escolhe um colega da equipe e desliza para desviar dos obstáculos. Tem piloto automático para rodar sozinho no totem.",
+      "event": null,
+      "partner": "F2 Solutions",
+      "agency": null,
+      "landscape": false
+    },
+    {
+      "id": "bemol-expresso-rios",
+      "title": "Bemol Expresso dos Rios",
+      "client": "Bemol",
+      "company": "F2 Solutions",
+      "year": 2026,
+      "kind": "Jogo",
+      "color": "#0A1F4D",
+      "summary": "Endless runner em pixel art: o barco da Bemol desce o rio desviando de troncos, rodamoinhos e ilhas, só com esquerda e direita.",
+      "what": "Endless runner em pixel art num monitor deitado: o jogador pilota o barco da Bemol rio abaixo, esterçando só para a esquerda e a direita. Desvia de troncos, rodamoinhos e ilhas, coleta moedas, caixas Bemol e corações, e no fim da travessia vê distância, pontos e brinde.",
+      "event": null,
+      "partner": "F2 Solutions",
+      "agency": null,
+      "landscape": true,
+      "screens": [
+        "/content/apps/bemol-expresso-rios/01.webp",
+        "/content/apps/bemol-expresso-rios/02.webp",
+        "/content/apps/bemol-expresso-rios/03.webp",
+        "/content/apps/bemol-expresso-rios/04.webp",
+        "/content/apps/bemol-expresso-rios/05.webp"
+      ]
+    },
+    {
+      "id": "pacman-ifood",
+      "title": "PAC-MAN × iFood",
+      "client": "iFood",
+      "company": "F2 Solutions",
+      "year": 2026,
+      "kind": "Jogo",
+      "color": "#1A0B0D",
+      "summary": "Pac-Man vertical com a marca iFood, fantasmas com a IA clássica e direcional gigante para totem.",
+      "what": "Pac-Man vertical com o tema iFood num totem 1080×1920: um botão inicia a contagem e o jogador percorre o labirinto comendo pontos e fugindo dos fantasmas. Os fantasmas seguem a IA clássica do jogo, e o controle é o direcional na tela ou no teclado.",
+      "event": null,
+      "partner": "F2 Solutions",
+      "agency": null,
+      "landscape": false,
+      "screens": [
+        "/content/apps/pacman-ifood/01.webp",
+        "/content/apps/pacman-ifood/02.webp",
+        "/content/apps/pacman-ifood/03.webp",
+        "/content/apps/pacman-ifood/04.webp",
+        "/content/apps/pacman-ifood/05.webp"
+      ]
+    },
+    {
+      "id": "wellz-lousa-magica",
+      "title": "Lousa Mágica Wellz",
+      "client": "Wellz (by Wellhub)",
+      "company": "F2 Solutions",
+      "year": 2026,
+      "kind": "IA",
+      "color": "#8A1F6B",
+      "summary": "A pessoa escreve uma palavra com o dedo, o Gemini lê e ela sobe para dentro de um cérebro cercada pelas palavras dos outros visitantes.",
+      "what": "Numa TV touch de 75\" deitada, a pessoa responde qual é o seu valor puramente humano escrevendo uma palavra com o dedo. O Gemini lê a palavra, que sobe para dentro de um cérebro cercada pelas palavras escritas pelos visitantes anteriores.",
+      "event": "Expo Imigrantes · São Paulo, 18 a 20/08/2026",
+      "partner": "F2 Solutions",
+      "agency": null,
+      "landscape": true,
+      "screens": [
+        "/content/apps/wellz-lousa-magica/03.webp",
+        "/content/apps/wellz-lousa-magica/04.webp",
+        "/content/apps/wellz-lousa-magica/02.webp",
+        "/content/apps/wellz-lousa-magica/01.webp",
+        "/content/apps/wellz-lousa-magica/05.webp"
+      ]
+    },
+    {
+      "id": "quiz-bmw-motorrad",
+      "title": "Quiz BMW Motorrad",
+      "client": "BMW Motorrad / BMW Serviços Financeiros",
+      "company": "F2 Solutions",
+      "year": 2026,
+      "kind": "Quiz",
+      "color": "#0B0B0D",
+      "summary": "Quiz de 7 perguntas sobre BMW Serviços Financeiros num totem 4K, com cadastro LGPD e brinde por acertos.",
+      "what": "Quiz de 7 perguntas sobre BMW Serviços Financeiros num totem touch vertical 4K, rodando offline. O visitante se cadastra com aceite LGPD, responde com correção na hora e ganha um brinde definido pelo número de acertos ou por sorteio.",
+      "event": "Autódromo de Interlagos · São Paulo, agosto de 2026",
+      "partner": "F2 Solutions",
+      "agency": "NETZA",
+      "landscape": false,
+      "screens": [
+        "/content/apps/quiz-bmw-motorrad/01.webp",
+        "/content/apps/quiz-bmw-motorrad/02.webp",
+        "/content/apps/quiz-bmw-motorrad/03.webp",
+        "/content/apps/quiz-bmw-motorrad/04.webp",
+        "/content/apps/quiz-bmw-motorrad/05.webp",
+        "/content/apps/quiz-bmw-motorrad/06.webp"
+      ]
+    }
+  ],
+  "sistemas": [
+    {
+      "id": "pixel-mapper",
+      "title": "Pixel Mapper",
+      "company": "AIdeas Lab",
+      "year": 2026,
+      "summary": "O arquiteto que assina a estrutura escreveu a ferramenta que calcula placas, peso, kVA e pixel map do LED.",
+      "screens": [
+        "/content/sistemas/pixel-mapper/01.webp",
+        "/content/sistemas/pixel-mapper/02.webp",
+        "/content/sistemas/pixel-mapper/03.webp",
+        "/content/sistemas/pixel-mapper/04.webp"
+      ]
+    },
+    {
+      "id": "f2-engine",
+      "title": "F2 ENGINE",
+      "company": "F2 Solutions",
+      "year": 2026,
+      "summary": "O motor que transforma um briefing de evento em ativação validada, com Blueprint antes do código e nota mínima para entregar.",
+      "screens": [
+        "/content/sistemas/f2-engine/01.webp",
+        "/content/sistemas/f2-engine/02.webp",
+        "/content/sistemas/f2-engine/03.webp",
+        "/content/sistemas/f2-engine/04.webp"
+      ]
+    },
+    {
+      "id": "myclaude",
+      "title": "myClaude",
+      "company": "Autoral",
+      "year": 2026,
+      "summary": "Marketplace do ecossistema Claude Code: skills, agentes e squads instaláveis com um único comando.",
+      "screens": [
+        "/content/sistemas/myclaude/01.webp",
+        "/content/sistemas/myclaude/02.webp",
+        "/content/sistemas/myclaude/03.webp",
+        "/content/sistemas/myclaude/04.webp"
+      ]
+    },
+    {
+      "id": "limitadozz-manager",
+      "title": "Limitadozz Manager",
+      "company": "Autoral",
+      "year": 2026,
+      "summary": "Um manager de futebol com core determinístico em C++ e interface React, com temporada solo e online.",
+      "screens": [
+        "/content/sistemas/limitadozz-manager/01.webp",
+        "/content/sistemas/limitadozz-manager/02.webp",
+        "/content/sistemas/limitadozz-manager/03.webp",
+        "/content/sistemas/limitadozz-manager/04.webp",
+        "/content/sistemas/limitadozz-manager/05.webp",
+        "/content/sistemas/limitadozz-manager/06.webp"
+      ]
+    },
+    {
+      "id": "cat-realms-tcg",
+      "title": "Cat Realms TCG",
+      "company": "Autoral",
+      "year": 2026,
+      "summary": "Um card game em tabuleiro 3D com direção de arte de relicário de museu.",
+      "screens": [
+        "/content/sistemas/cat-realms-tcg/01.webp",
+        "/content/sistemas/cat-realms-tcg/02.webp",
+        "/content/sistemas/cat-realms-tcg/03.webp",
+        "/content/sistemas/cat-realms-tcg/04.webp",
+        "/content/sistemas/cat-realms-tcg/05.webp",
+        "/content/sistemas/cat-realms-tcg/06.webp"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# segredos e deploy
+.env*
+!.env.example
+.vercel
+**/*credential*
+**/*service-account*
+
+# capturas de teste
+qa/
+
+# imagens ainda sem autorização de publicação (rosto de convidado / cliente pendente)
+public/content/apps/volvo-emotion-drive/real-02.webp
+public/content/apps/volvo-emotion-drive/real-03.webp
+public/content/apps/volvo-emotion-drive/real-04.webp
+public/content/apps/avon-voce-na-capa/real-0*.webp
+public/content/apps/elevador-itau-rir-2026/real-02.webp
+public/content/apps/elevador-itau-rir-2026/real-03.webp
+public/content/apps/elevador-itau-rir-2026/real-04.webp
+public/content/sistemas/aideas-catalogo-ativacoes/
